@@ -16,4 +16,4 @@
 
 ### Requirements
 
-This site was built using [GitHub Pages](https://pages.github.com/). 
+Just .NET [NET FRAMEWORK](https://www.microsoft.com/net/download/windows). 
