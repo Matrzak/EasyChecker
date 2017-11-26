@@ -14,4 +14,6 @@
 > Now! This is time of EasyChecker, after a second checker will print
 > All of instances outputs (Easy, Right?)
 
-### 
+### Requirements
+
+[.NET FRAMEWORK] (https://www.microsoft.com/net/download/windows) 
